@@ -1,3 +1,7 @@
+## Reference
+Daily Dose of DS (dailydoseofds.com)
+https://lightning.ai/akshay-ddods/environments/build-a-private-secure-mcp-client-100-local?ref=dailydoseofds.com&utm_campaign=akshay&utm_medium=newsletter
+
 # Quick Start
 1. Start server
 ```
